@@ -1,10 +1,11 @@
-:root{
-    --primary-color:#A82c48;
-    --secondary-color:#43121d;
-    --white-color:#fff;
-    --text-color:#555;
-    
+:root {
+  --primary-color: #2563EB;   /* Blue */
+  --secondary-color: #1E3A8A; /* Dark Blue */
+  --white-color: #FFFFFF;     
+  --text-color: #374151;      /* Soft Dark Gray */
+  --accent-color: #F59E0B;    /* Optional Accent (Orange) */
 }
+
 .primary-color{
     color:var(--primary-color)
 }
